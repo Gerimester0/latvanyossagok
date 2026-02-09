@@ -1,0 +1,5 @@
+Thaiföld;Samut Sakhon;Huai Sai Khao Templom;1800;13.5454;100.2843 
+Brazília;Rio de Janerio;Ponte Pres. Costa e Silva;1974;-22.9105;-43.1736 
+Amerika;New York;Trump Tower;1983;40.7625;-73.9752 
+Dominika;Mano Juan;Tengerpart;1983;18.3311;-68.7361 
+Kína;Peking;Kínai nagy fal;220;40.4319;116.5704
